@@ -3,6 +3,7 @@ void main()
 {
 	func1();
 	printf("\n");
-	
+	func1();
+	printf("~~~~~~~~~~~\n");
 	func2();
 }
