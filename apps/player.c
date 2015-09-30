@@ -6,7 +6,7 @@ void main()
 	printf("\n");
 <<<<<<< HEAD
 	func1();
-	printf("~~~~~~~~~~~\n");
+	printf("!!!!!!!!!!\n");
 =======
 	
 >>>>>>> bug456
