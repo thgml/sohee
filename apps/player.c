@@ -5,5 +5,4 @@ void main()
 	func1();
 	printf("\n");
 	func1();
-	func2();
 }
